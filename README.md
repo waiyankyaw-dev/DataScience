@@ -83,5 +83,3 @@ Our Random Forest model revealed the hierarchy of salary drivers.
     *   Run all cells to generate the 34 figures and statistical reports.
 
 
-## 📜 License
-This project uses the Stack Overflow 2023 Data, licensed under the **Open Database License (ODbL)**. Code is open-source under MIT.
