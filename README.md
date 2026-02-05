@@ -68,7 +68,7 @@ Our Random Forest model revealed the hierarchy of salary drivers.
 
 1.  **Clone the Repo**
     ```bash
-    git clone https://github.com/yourusername/stackoverflow-2023-analysis.git
+    git clone https://github.com/waiyankyaw-dev/stackoverflow-2023-analysis.git
     cd stackoverflow-2023-analysis
     ```
 
